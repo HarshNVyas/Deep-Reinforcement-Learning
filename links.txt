@@ -1,0 +1,7 @@
+https://www.linkedin.com/posts/balasurya-m-552482150_ai-machinelearning-artificialintelligence-activity-6678878651372711936-oc_V	:Linkdin upload
+
+https://medium.com/@manuelgeorgethomas/how-deep-reinforcement-learning-is-used-for-locomotion-skill-in-robotics-9130865c3f06		:Blog
+
+https://youtu.be/f5pVJLc8MJ0	:YouTube
+
+https://github.com/HarshNVyas/Deep-Reinforcement-Learning-to-train-locomotation-activity-in-Robots	:Github repository
